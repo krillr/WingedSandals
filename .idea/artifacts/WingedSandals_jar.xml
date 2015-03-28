@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WingedSandals:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WingedSandals_jar</output-path>
+    <root id="archive" name="WingedSandals.jar">
+      <element id="module-output" name="WingedSandals" />
+      <element id="library" level="project" name="Maven: org.bukkit:bukkit:1.4.5-R0.3-SNAPSHOT" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mcstats/bukkit/metrics/R7/metrics-R7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
